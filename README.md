@@ -53,8 +53,8 @@ Generate session IDs for WhatsApp bots using [`DARK NICK`](https://github.com/wh
 ## 👑 Owner
 
 <p align="center">
-  <a href="https://files.catbox.moe/3yzrc6.jpg">
-    <img src="https://whatsapp.com/channel/0029Vb6XNZl3bbUywzJZDH27" width="200" height="200" alt="DARK NICK"/>
+  <a href="https://whatsapp.com/channel/0029Vb6XNZl3bbUywzJZDH27">
+    <img src="https://files.catbox.moe/3yzrc6.jpg" width="200" height="200" alt="DARK NICK"/>
   </a>
 </p>
 
